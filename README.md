@@ -2,6 +2,8 @@
 
 You can [check out my workshop here](https://github.com/BigEyeCue/BigEyeCue.github.io/edit/main/Workshop) to maintain and preview the content for your website in Markdown files.
 
+You can [check out my title page here](https://spark.adobe.com/page/s7m2TGts0AQVN/)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
